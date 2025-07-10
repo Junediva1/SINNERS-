@@ -1,4 +1,4 @@
-# SINNERS-
+# SINNERS- USING PYTHON
 Analyzing Audience Sentiment Around Ryan Coogler’s Sinners
 Overview: I created a multi-source sentiment analysis pipeline for the 2025 film Sinners by Ryan Coogler. The goal was to understand how audiences reacted to the film’s core themes: race, music, and religion — topics that are emotionally and socially resonant.
 
