@@ -11,9 +11,9 @@ Theme & Sentiment Modeling: Using custom keyword matching and TextBlob for sen
 This allowed me to not only understand how people felt, but also what they were reacting to.
 
 Insights:
-* 🔥 Race-related comments skewed more emotionally polarized, showing both strong praise and criticism.
-* 🎵 Music comments were overwhelmingly positive — reflecting appreciation for the film’s gospel/hip-hop blend.
-* ✝️ Religion-tagged content was mixed, with nuanced sentiments ranging from inspiration to discomfort.
+*  Race-related comments skewed more emotionally polarized, showing both strong praise and criticism.
+*  Music comments were overwhelmingly positive — reflecting appreciation for the film’s gospel/hip-hop blend.
+*  Religion-tagged content was mixed, with nuanced sentiments ranging from inspiration to discomfort.
 I visualized these findings with bar charts and theme breakdowns using Python’s matplotlib and seaborn.
 
 Challenges & Trade-Offs:
